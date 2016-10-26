@@ -18,7 +18,7 @@ The box was created with the help of artists who share their art at https://open
 
 ## Instructions
 1. Print the attached PDF and cut out the box on the solid lines. 
-[[https://github.com/BlinkyFlashy/blinkyflashy/blob/master/halloween-bag/step1.png|alt=stepone]]
+![ScreenShot](https://github.com/BlinkyFlashy/blinkyflashy/blob/master/halloween-bag/step1.png)
 
 
 2. Score the box along the dashed lines - look at the fancy paper I found at the craft store!
