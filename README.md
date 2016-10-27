@@ -1,3 +1,6 @@
+ Here are the links to the instructions and code for the World of the BlinkyFlashy talk presented by [Jen Krieger](https://github.com/orgs/BlinkyFlashy/people/mrry550) and [Gina Likins](https://github.com/orgs/BlinkyFlashy/people/lintqueen) at All Things Open 2016
+
+ 
  **Level** | **E-textile** | **Paper circuits** | **Small circuits**
 -----------|---------------|--------------------|---
 Easy-peasy | [Hack your hoodie](http://bit.ly/hoodie_info) | [Store bought card](https://github.com/BlinkyFlashy/blinkyflashy/tree/master/storebought-card) | [LED throwie](http://www.instructables.com/id/LED-Throwies/?ALLSTEPS)
