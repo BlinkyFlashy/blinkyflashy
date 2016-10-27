@@ -1,20 +1,18 @@
-# blinkyflashy
-
 | 
 
-<span style="color: #ffffff;">**Level**</span>
+**Level**
 
  | 
 
-<span style="color: #ffffff;">**E-textile**</span>
+**E-textile**
 
  | 
 
-<span style="color: #ffffff;">**Paper circuits**</span>
+**Paper circuits**
 
  | 
 
-<span style="color: #ffffff;">**Small circuits**</span>
+**Small circuits**
 
  |
 | 
